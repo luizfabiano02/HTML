@@ -18,9 +18,8 @@ O objetivo da atividade foi criar uma página HTML simples para apresentar algun
 ## Tecnologias utilizadas
 
 - HTML
-
-## Como executar
-
+F
+## Com
 1. Baixar os arquivos do projeto.
 2. Localizar o arquivo HTML.
 3. Dar dois cliques no arquivo.
